@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StuffBag</string>
+    <string-array name="imc_array">
+        <item>AMBOS</item>
+        <item>MASCULINO</item>
+        <item>FEMININO</item>
+    </string-array>
+</resources>

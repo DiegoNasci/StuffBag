@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#424141</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#000</color>
+    <color name="cor_botao">#0c3c7c</color>
+    <color name="cor_texto_botao">#fff</color>
+    <color name="cor_botao_rosa">#ff00fa</color>
+    <color name="cor_botao_laranja">#ff6600</color>
+    <color name="cor_botao_verde">#00fc19</color>
+    <color name="cor_botao_azul">#00fff2</color>
+</resources>
